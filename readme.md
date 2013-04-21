@@ -1,0 +1,1 @@
+Projeto de banco da apotila da Caelum FJ11, com exemplo de contador com metodo estático servindo toda a aplicação, validação de dados no setter no cadastro de pessoa fisica, exemplo de Singleton Pattern.
